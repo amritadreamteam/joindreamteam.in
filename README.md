@@ -2,13 +2,13 @@
 description: Official recruitment documentation
 ---
 
-# Dreamteam
+# Join Dreamteam
 
 ## Introduction
 
 Welcome to the official recruitment portal of Dreamteam. Recruitment into the club is currently possible only through our official recruitment drives — **Genesis** and Phase II.
 
-**Genesis** is our primary recruitment drive, aimed at freshers and S3 students. It offers the fastest path to club membership and is conducted at the beginning of each academic year. [**Phase II**](recruitment/aux.md) serves as the final opportunity to gain membership in the club.
+**Genesis** is our primary recruitment drive, aimed at freshers and S3 students. It offers the fastest path to club membership and is conducted at the beginning of each academic year. [Phase II](recruitment/phasetwo.md) serves as the final opportunity to gain membership in the club.
 
 Selection into the club requires completing a predefined set of tasks assigned during the drive.\
 These tasks are designed to evaluate:

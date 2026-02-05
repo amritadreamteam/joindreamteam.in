@@ -18,5 +18,5 @@ Selection is based on both the **number of tasks completed** and the **quality o
 
 * **February 7, 2026:** Application forms released, Contest begins.
 * **February 9, 2026:** Application deadline (forms close at **11:59 PM**)
-* **February 25, 2026:** Contest ends; candidates submit GitHub repositories via forms
+* **February 27, 2026:** Contest ends; candidates submit GitHub repositories via forms
 * **Interview:** Dates to be announced.
