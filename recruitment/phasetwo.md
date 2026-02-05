@@ -8,31 +8,15 @@ Selection is based on both the **number of tasks completed** and the **quality o
 ## Requirements
 
 * Candidates must currently be in **S2** or **S4**.
-* Candidates who appeared for the interview in Genesis 2025 are not allowed.
 * Being from a Computer Science–related discipline is not mandatory.
 * Candidates are strictly required to use **Linux or macOS** for all tasks.
 * Proficiency in basic Linux commands and system usage will be assessed during the interview.
 
 [Task repository](https://www.github.com/amritadreamteam/phase-II-2025)&#x20;
 
-## Relevant Material
-
-The following resources are provided to assist you in completing the tasks.\
-These materials **will also be evaluated during the interview**, and candidates are expected to prepare accordingly.
-
-* Git Reference:
-* Linux Reference:
-* Front-end Reference:
-* Back-end Reference:
-* Documentation:
-
-> **Tip:** Remember, **Google** will be your best friend throughout this contest—and your career as a developer. Effective search techniques to retrieve relevant information and resolve issues are strongly encouraged.\
-> With documentation and resources readily available, we expect candidates to develop the habit of researching solutions independently before _gpting :)_
-
 ## Timeline
 
-* **February 5, 2026:** Application forms released
-* **February 8, 2026:** Application deadline (forms close at **11:59 PM**)
-* **February 9, 2026:** Contest begins
+* **February 7, 2026:** Application forms released, Contest begins.
+* **February 9, 2026:** Application deadline (forms close at **11:59 PM**)
 * **February 25, 2026:** Contest ends; candidates submit GitHub repositories via forms
-* **Interviews:** Dates to be announced
+* **Interview:** Dates to be announced.
