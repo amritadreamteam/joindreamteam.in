@@ -8,6 +8,7 @@ Selection is based on both the **number of tasks completed** and the **quality o
 ## Requirements
 
 * Candidates must currently be in **S2** or **S4**.
+* Candidates who appeared for the interview in Genesis 2025 won't be considered.
 * Being from a Computer Science–related discipline is not mandatory.
 * Candidates are strictly required to use **Linux or macOS** for all tasks.
 * Proficiency in basic Linux commands and system usage will be assessed during the interview.
